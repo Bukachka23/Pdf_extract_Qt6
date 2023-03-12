@@ -1,5 +1,7 @@
 # PDF_Extract_Qt6
 
+![pic](q.png)
+
 This is a PyQt6 desktop application that extracts the text from a PDF file. The application provides a user interface for selecting a PDF file, processing the file, and displaying the extracted text. The application also provides a progress bar that indicates the progress of the text extraction process.
 
 # Prerequisites
